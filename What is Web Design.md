@@ -6,7 +6,7 @@ tags: #literature
 ---
 
 ````
-
+Design is adding value and meaning, simplifying, modifying, dignifying, dramatizing, 
 
 ````
 
