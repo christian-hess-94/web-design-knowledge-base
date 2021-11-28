@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What is Design.md",
+            "file": "Map of Contents.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Design.md",
+                "file": "Map of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "ae54b4d72e9935c8",
   "lastOpenFiles": [
+    "Map of Contents.md",
     "What is Design.md",
     "Attachments/Entertain.png",
     "Attachments/Persuading.png",
@@ -107,7 +108,6 @@
     "Attachments/Explaining.png",
     "Attachments/Dignifying.png",
     "Attachments/Simplifying.png",
-    "Attachments/Adding value.png",
-    "Map of Contents.md"
+    "Attachments/Adding value.png"
   ]
 }
