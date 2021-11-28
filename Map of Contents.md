@@ -5,7 +5,7 @@ tags: #moc
 
 ---
 
-1. [[What is Web Design]]
+1. [[What is Design]]
 
 ---
 

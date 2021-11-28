@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What is Web Design.md",
+            "file": "What is Design.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Web Design.md",
+                "file": "What is Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
   },
   "active": "ae54b4d72e9935c8",
   "lastOpenFiles": [
-    "What is Web Design.md",
+    "What is Design.md",
     "Attachments/Pasted image 20211128115436.png",
     "Attachments/Explaining.png",
     "Attachments/Dignifying.png",
