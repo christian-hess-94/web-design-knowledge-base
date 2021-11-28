@@ -32,3 +32,4 @@ Design, in general, dictates the way that the content of a web page or product i
 
 # Referencias
 1. https://www.origamid.com/curso/web-design-completo/2-1-1-o-que-e-design
+2. 
