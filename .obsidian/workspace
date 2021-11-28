@@ -15,6 +15,17 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "6ee8152c0465ac7c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Adding Value and Meaning.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -102,9 +113,9 @@
   "active": "ae54b4d72e9935c8",
   "lastOpenFiles": [
     "What is Design.md",
+    "Adding Value and Meaning.md",
     "README.md",
     "Map of Contents.md",
-    "Adding Value and Meaning.md",
     "Attachments/Entertain.png",
     "Attachments/Persuading.png",
     "Attachments/Dramatizing.png",

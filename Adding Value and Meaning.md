@@ -1,13 +1,2 @@
-# Adding Value and Meaning
-created: 28/11/2021 - 16:50
-links:
-tags: #no_content
-
----
-
-CONTENT
-
----
-
-# Referencias
-1. 
+![[Adding value.png]]
+`In this case of an e-commerce, the entire page is tailored to the predominant male audience, and it used strong colors and bold lettering to appeal to that sense`

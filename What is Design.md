@@ -7,10 +7,8 @@ tags: #literature
 
 Design in general is supposed to **add value and meaning** to something. It can achieve that by **simplifying**, **explaining**, **modifying**, **dignifying**, **dramatizing**, **persuading** and even **entertaining** those who interact with it.
 
-[[Adding Value and Meaning]]
-### Adding value and meaning:
-![[Adding value.png]]
-`In this case of an e-commerce, the entire page is tailored to the predominant male audience, and it used strong colors and bold lettering to appeal to that sense`
+![[Adding Value and Meaning]]
+
 
 ### Simplifying
 ![[Simplifying.png]]
