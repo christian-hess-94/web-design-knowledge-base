@@ -9,7 +9,6 @@ Design in general is supposed to **add value and meaning** to something. It can 
 
 ![[Adding Value and Meaning]]
 
-
 ![[Simplifying]]
 
 ![[Explaining]]
@@ -18,12 +17,9 @@ Design in general is supposed to **add value and meaning** to something. It can 
 
 ![[Dramatizing]]
 
-
 ![[Persuading]]
 
 ![[Entertaining]]
-![[Entertain.png]]
-`This website is for a movie about the Battle of Waterloo. It uses the composition of the page and it's color to emulate the feeling of two sides, or armies, that are going to battle. The use of red and blue color also depicts the uniforms of the soldier aswell as the classic red X blue color scheme seen usually in games.`
 
 Design, in general, dictates the way that the content of a web page or product is presented to the audience and how it portrays that content. The guidelines that reference different parts of the overall structure and design of the page can be split into four main categories:
 - [[Form and Space]]

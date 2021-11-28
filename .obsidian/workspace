@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Persuading.md",
+            "file": "Entertaining.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Persuading.md",
+                "file": "Entertaining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "6ee8152c0465ac7c",
   "lastOpenFiles": [
-    "Persuading.md",
+    "Entertaining.md",
     "What is Design.md",
+    "Persuading.md",
     "Dramatizing.md",
     "Dignifying.md",
     "Explaining.md",
     "Simplifying.md",
     "Adding Value and Meaning.md",
     "README.md",
-    "Map of Contents.md",
-    "Attachments/Entertain.png"
+    "Map of Contents.md"
   ]
 }
