@@ -19,8 +19,9 @@ Design in general is supposed to **add value and meaning** to something. It can 
 ![](Pasted%20image%2020211128115002.png)
 `In this case the website makes use of text to offer a easy and simple explanation about a general goal. In this case the use of titles and subtitles are proeminent ways of delivering this information.` [[Typography]]
 
-### Modifying
-
+### Dignifying
+![](Pasted%20image%2020211128115148.png)
+`This landing page for a prroduct takes cues from the actual product's design and color scheme to implemente an entire UI centered on transmiting the feeling of owning that piece of des`
 
 
 ---
