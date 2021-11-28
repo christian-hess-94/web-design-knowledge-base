@@ -5,10 +5,7 @@ tags: #literature
 
 ---
 
-````
-Design is adding value and meaning, simplifying, modifying, dignifying, dramatizing, 
-
-````
+Design in general is supposed to add value and meaning to something. It can achieve that by simplyfyi
 
 ---
 
