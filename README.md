@@ -1,7 +1,5 @@
 # README
 created: 28/11/2021 - 11:36
-links:
-tags: #readme
 
 ---
 

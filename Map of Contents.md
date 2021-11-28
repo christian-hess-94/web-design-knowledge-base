@@ -1,11 +1,11 @@
 # Map of Contents
 created: 28/11/2021 - 11:39
 links:
-tags: #no_content
+tags: #moc
 
 ---
 
-CONTENT
+1. [[What is Web Design]]
 
 ---
 
