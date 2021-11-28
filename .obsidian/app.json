@@ -1,7 +1,7 @@
 {
   "showLineNumber": true,
   "newFileLocation": "current",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "attachmentFolderPath": "Attachments",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true
