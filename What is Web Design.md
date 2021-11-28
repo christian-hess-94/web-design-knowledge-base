@@ -5,7 +5,9 @@ tags: #literature
 
 ---
 
-Design in general is supposed to add value and meaning to something. It can achieve that by simplyfyi
+Design in general is supposed to add value and meaning to something. It can achieve that by simplifying, explaining, modifying, dignifying, dramatizing, persuading and even entertaining those who interact with it.
+
+### Adding value and meaning:
 
 ---
 
