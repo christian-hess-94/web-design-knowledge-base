@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adding Value and Meaning.md",
+            "file": "Persuading.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Design.md",
+                "file": "Persuading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae54b4d72e9935c8",
+  "active": "6ee8152c0465ac7c",
   "lastOpenFiles": [
+    "Persuading.md",
     "What is Design.md",
+    "Dramatizing.md",
+    "Dignifying.md",
+    "Explaining.md",
+    "Simplifying.md",
     "Adding Value and Meaning.md",
     "README.md",
     "Map of Contents.md",
-    "Attachments/Entertain.png",
-    "Attachments/Persuading.png",
-    "Attachments/Dramatizing.png",
-    "Attachments/Pasted image 20211128115436.png",
-    "Attachments/Explaining.png",
-    "Attachments/Dignifying.png"
+    "Attachments/Entertain.png"
   ]
 }
