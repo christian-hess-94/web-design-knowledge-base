@@ -9,9 +9,11 @@ Design in general is supposed to add value and meaning to something. It can achi
 
 ### Adding value and meaning:
 ![](Pasted%20image%2020211128114637.png)
-`In this case of an e-commerce, the entire page is tailored to the predominant male audience, and it used strong color`
+`In this case of an e-commerce, the entire page is tailored to the predominant male audience, and it used strong colors and bold lettering to appeal to that sense`
 
-###
+### Simplifying
+![](Pasted%20image%2020211128114810.png)
+`In this case the objective is to guide the viewer thourhg an specific flow or route. This is don`
 
 
 ---
