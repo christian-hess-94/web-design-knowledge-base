@@ -17,7 +17,10 @@ Design in general is supposed to **add value and meaning** to something. It can 
 
 ### Explaining
 ![](Pasted%20image%2020211128115002.png)
-`In this case the website makes use of text to offer a easy and simple explanation about a general goal. In this case the use of titl`
+`In this case the website makes use of text to offer a easy and simple explanation about a general goal. In this case the use of titles and subtitles are proeminent ways of delivering this information.` [[Typography]]
+
+### Modifying
+
 
 
 ---
