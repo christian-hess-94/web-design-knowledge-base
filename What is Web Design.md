@@ -5,7 +5,7 @@ tags: #literature
 
 ---
 
-Design in general is supposed to **add value and meaning** to something. It can achieve that by **simplifying**, **explaining**, **modifying**, **dignifying**, **dramatizing**, persuading and even entertaining those who interact with it.
+Design in general is supposed to **add value and meaning** to something. It can achieve that by **simplifying**, **explaining**, **modifying**, **dignifying**, **dramatizing**, **persuading** and even **entertaining** those who interact with it.
 
 ### Adding value and meaning:
 ![](Pasted%20image%2020211128114637.png)
@@ -15,7 +15,9 @@ Design in general is supposed to **add value and meaning** to something. It can 
 ![](Pasted%20image%2020211128114810.png)
 `In this case the objective is to guide the viewer through an specific flow or route. This is done by enphasizing the most important elements that can be interacted with, the buttons.`
 
-### 
+### Explaining
+![](Pasted%20image%2020211128115002.png)
+`In this case the website makes use of text to offer a easy and simple explanation about a general goal. In this case the use of titl`
 
 
 ---
