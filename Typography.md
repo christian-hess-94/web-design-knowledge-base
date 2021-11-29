@@ -25,7 +25,9 @@ Usually used to give emphasys to a text. They are usually used in Headings.
 ##### Script
 Custom made typographies, usually tailored for a certain brand or feel. They have a strong hand-written feel and make use of [[Organic Shapes]]
 
-##### Bl
+##### Blackletter / Goth
+Usually used for references to the Medieval Times. Very common in RPG games.
+
 
 
 ---
