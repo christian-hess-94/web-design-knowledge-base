@@ -35,7 +35,10 @@ The two colors right beside the Primary Colors are the Tertiary Colors. They rep
 ![[Color Schemes.png]]
 `An example of complemeting color schemes`
 
+
+
+
 ---
 
 # References
-1. 
+1. https://color.adobe.com
