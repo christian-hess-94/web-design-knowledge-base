@@ -16,7 +16,15 @@ Serif typographies have little "decorations" at the end of letters. This is supp
 
 
 ##### Sans-Serif
-These typographies don't have the serif, which are little decorations at the end of letters. This type of typography usually realtes to machine writing.
+These typographies don't have the serif, which are little decorations at the end of letters. This type of typography usually realtes to machine writing and [[Natural Forms]]
+![[Pasted image 20211129192713.png]]
+
+#### Bold
+Usually used to give emphasys to a text. They are usually used in Headings.
+
+
+
+
 
 ---
 
