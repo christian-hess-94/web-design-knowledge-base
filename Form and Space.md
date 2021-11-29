@@ -25,6 +25,9 @@ Space dictates the relations between the shapes that are inside of it, bringing 
 ![[Pasted image 20211129185316.png]]
 `In this case, the entire right side of the page brings focus to the three action buttons, bringing the user to click on any of them. The left side is used to highlight the two latest points or stories associated with the brand.`
 
+![[Pasted image 20211129185626.png]]
+`This website has a video playing in the background, so it minimizes the elements in the page itself to not deter from it.`
+
 
 ---
 
