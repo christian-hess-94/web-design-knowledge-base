@@ -16,7 +16,12 @@ There are two main types:
 `Both themes can be used together. In this example, all the items are composed of Geometric Shapes, to keep everything organized. However small details like the underlining of links or the icons above are composed of imperfect, Natural Shapes`
 
 #### Space
-`Space `
+```
+Space is defined and acquires meaning the instant a Form appears inside of it. 
+- Timothy Samara
+```
+
+
 
 ---
 
