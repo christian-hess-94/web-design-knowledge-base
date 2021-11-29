@@ -7,8 +7,18 @@ tags: #literature
 
 ```
 There are few visual stimuli as potent as colors, they are an extremely useful communication tool.
--Tymothy 
+- Timothy Samara
 ```
+
+![[Cromatic Circle.png]]
+`The cromatic circle, shows the relations between Primary, Secondary and Tertiary colors.`
+
+-
+
+
+
+
+
 
 ---
 
