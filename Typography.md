@@ -34,6 +34,7 @@ These are wildcards, they usually are custom made for a project and not used any
 When modifying text, there are a couple of parameters to be considered:
 - [[Typographic Variables]]
 - [[Typographic Scale]]
+- [[Typographic Pairing]]
 
 
 
