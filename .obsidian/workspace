@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Script.md",
+            "file": "Typographc Alignment.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script.md",
+                "file": "Typographc Alignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "1964b46ef2cd6e5a",
   "lastOpenFiles": [
-    "Script.md",
+    "Typographc Alignment.md",
     "Typography.md",
-    "Display.md",
     "Bold.md",
+    "Display.md",
     "Blackletter /Blackletter-Goth.md",
+    "Script.md",
     "Typographic Pairing.md",
     "Serif.md",
     "Sans-Serif.md",
-    "Typographic Variables.md",
-    "Typographic Scale.md"
+    "Typographic Variables.md"
   ]
 }

@@ -26,6 +26,7 @@ When modifying text, there are a couple of parameters to be considered:
 - [[Typographic Variables]]
 - [[Typographic Scale]]
 - [[Typographic Pairing]]
+- [[Typographc Alignment]]
 
 
 
