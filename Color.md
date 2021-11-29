@@ -35,6 +35,16 @@ The two colors right beside the Primary Colors are the Tertiary Colors. They rep
 ![[Color Schemes.png]]
 `An example of complemeting color schemes`
 
+### Color Relativity
+
+```
+If someone says "red" and there are fifty people listening, you can expect each person to think of a different red.
+- Josef Albers
+```
+
+
+
+
 
 
 
