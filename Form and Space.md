@@ -23,7 +23,7 @@ Space is defined and acquires meaning the instant a Form appears inside of it.
 
 Space dictates the relations between the shapes that are inside of it, bringing attention or diverting from certain aspects of the page, and creating a Hierarchy of the elements contained within it.
 ![[Pasted image 20211129185316.png]]
-`In this case, the entire right side of the page brings focus to the three action buttons, bringing the user to click on any of them. The left side is used to highlight the two latest points or s`
+`In this case, the entire right side of the page brings focus to the three action buttons, bringing the user to click on any of them. The left side is used to highlight the two latest points or stories associated with the brand.`
 
 
 ---
