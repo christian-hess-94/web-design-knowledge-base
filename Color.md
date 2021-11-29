@@ -42,6 +42,7 @@ If someone says "red" and there are fifty people listening, you can expect each 
 - Josef Albers
 ```
 
+Colors are percieved differently by people. This comes from their own perspective of color aswell as their upbringing or even their cultural inheritance.
 
 
 
