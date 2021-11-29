@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typographic Hierarchy.md",
+                "file": "Typography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,10 +109,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "490d017117a1c657",
+  "active": "1964b46ef2cd6e5a",
   "lastOpenFiles": [
-    "Typographic Hierarchy.md",
     "Typography.md",
+    "Typographic Hierarchy.md",
     "Display Fonts.md",
     "Blackletter /Blackletter-Goth Fonts.md",
     "Script Fonts.md",

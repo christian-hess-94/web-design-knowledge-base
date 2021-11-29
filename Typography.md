@@ -28,6 +28,7 @@ When modifying text, there are a couple of parameters to be considered:
 - [[Typographic Pairing]]
 - [[Typographc Alignment]]
 - [[Typographic Hierarchy]]
+- [[tracking]]
 
 
 
