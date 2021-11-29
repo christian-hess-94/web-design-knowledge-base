@@ -49,7 +49,7 @@ Colors are percieved differently by people. This comes from their own perspectiv
 
 #### Color Scheme
 
-A color scheme is a set of colors th
+A color scheme is a set of colors that have relationships between them. This set of color is what dictates the entire look and feel of 
 
 
 
