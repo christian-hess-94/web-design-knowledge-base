@@ -6,10 +6,23 @@
       {
         "id": "1964b46ef2cd6e5a",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typographic Hierarchy.md",
+            "file": "Typography.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "490d017117a1c657",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bold fonts.md",
             "mode": "source"
           }
         }
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typographic Hierarchy.md",
+                "file": "Bold fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +109,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1964b46ef2cd6e5a",
+  "active": "490d017117a1c657",
   "lastOpenFiles": [
-    "Typographic Hierarchy.md",
+    "Bold fonts.md",
     "Typography.md",
+    "Serif Fonts.md",
+    "Typographic Pairing.md",
+    "Sans-Serif Fonts.md",
+    "Typographic Hierarchy.md",
     "Typographc Alignment.md",
-    "Bold.md",
     "Display.md",
     "Blackletter /Blackletter-Goth.md",
-    "Script.md",
-    "Typographic Pairing.md",
-    "Serif.md",
-    "Sans-Serif.md"
+    "Script.md"
   ]
 }

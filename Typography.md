@@ -10,11 +10,11 @@ Typograhy is the process of givin order and form to the message being given by t
 
 There are many types:
 
-![[Serif]]
+![[Serif Fonts]]
 
-![[Sans-Serif]]
+![[Sans-Serif Fonts]]
 
-![[Bold]]
+![[Bold fonts]]
 
 ![[Script]]
 
