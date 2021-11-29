@@ -6,20 +6,10 @@
       {
         "id": "1964b46ef2cd6e5a",
         "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "cc2f102fdfafbbdc",
-        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hue.md",
+            "file": "Color.md",
             "mode": "source"
           }
         }
@@ -78,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hue.md",
+                "file": "Color.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +96,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cc2f102fdfafbbdc",
+  "active": "1964b46ef2cd6e5a",
   "lastOpenFiles": [
-    "Hue.md",
-    "Dignifying.md",
-    "Geometric Forms.md",
-    "Natural Forms.md",
-    "Contrast.md",
     "Color.md",
-    "Value.md",
+    "Dramatizing.md",
+    "Explaining.md",
+    "Natural Forms.md",
+    "Adding Value and Meaning.md",
+    "Persuading.md",
+    "Entertaining.md",
+    "Simplifying.md",
     "Saturation.md",
-    "Attachments/Color Schemes.png",
-    "Attachments/Cromatic Circle.png"
+    "Value.md"
   ]
 }
