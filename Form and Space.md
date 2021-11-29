@@ -21,6 +21,8 @@ Space is defined and acquires meaning the instant a Form appears inside of it.
 - Timothy Samara
 ```
 
+Space dictates the relations between the shapes that are inside of it, bringing attention or diverting from certain aspects of the page, and creating a Hierarchy of the elements contained within it.
+
 
 
 ---
