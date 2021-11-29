@@ -12,6 +12,9 @@ There are two main types:
 ![[Geometric Forms]]
 ![[Natural Forms]]
 
+![[Pasted image 20211129184957.png]]
+`Both themes can be used together. In `
+
 ---
 
 # References
