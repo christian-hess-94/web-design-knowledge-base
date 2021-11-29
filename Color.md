@@ -45,8 +45,11 @@ If someone says "red" and there are fifty people listening, you can expect each 
 Colors are percieved differently by people. This comes from their own perspective of color aswell as their upbringing or even their cultural inheritance.
 
 ![[Pasted image 20211129191157.png]]
-`The two most used color schemes, RGD f`
+`The two most used color schemes, RGB for computers and CMYK for printers.`
 
+#### Color Scheme
+
+A color scheme is a set of colors th
 
 
 
@@ -54,3 +57,5 @@ Colors are percieved differently by people. This comes from their own perspectiv
 
 # References
 1. https://color.adobe.com
+2. https://dribbble.com
+3. https://design-seeds.com 
