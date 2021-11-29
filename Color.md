@@ -19,10 +19,12 @@ between each one of these colors, there are three other colors, which are a comb
 
 ##### Secondary Colors
 The color that is betwen two primary colors. It represents the mixing of the colors to the same proportions
-- Red: 
+- Red -> Yellow: Orange
+- Yellow -> Blue: Green
+- Blue -> Red: Purple
 ##### Tertiary Colors
-The two color right beside the Primary Colors are the Secondary Colors and are as follows:
-- Red: 
+The two colors right beside the Primary Colors are the Tertiary Colors. They represent the mixing of the two Primary Colors, but where one of them is more proeminent than the other
+- Red -> +Yellow: 
 
 
 
