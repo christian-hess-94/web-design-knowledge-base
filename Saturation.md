@@ -1,1 +1,1 @@
-Saturation indicates how close to black or white the color is, essentially dictating how bright or dark the resulting color is going to be.
+Saturation indicates how close to white the color is, essentially it dictates how light the resulting color will be.
