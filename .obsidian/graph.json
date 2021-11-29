@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 11403519
       }
+    },
+    {
+      "query": "tag:#snippet",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
