@@ -13,7 +13,10 @@ There are two main types:
 ![[Natural Forms]]
 
 ![[Pasted image 20211129184957.png]]
-`Both themes can be used together. In `
+`Both themes can be used together. In this example, all the items are composed of Geometric Shapes, to keep everything organized. However small details like the underlining of links or the icons above are composed of imperfect, Natural Shapes`
+
+#### Space
+`Space `
 
 ---
 
