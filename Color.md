@@ -24,7 +24,11 @@ The color that is betwen two primary colors. It represents the mixing of the col
 - Blue -> Red: Purple
 ##### Tertiary Colors
 The two colors right beside the Primary Colors are the Tertiary Colors. They represent the mixing of the two Primary Colors, but where one of them is more proeminent than the other
-- Red -> +Yellow: 
+- +Red -> Yellow: Wine
+- Red -> +Yellow: Light Orange
+- +Yellow -> Blue: Light green
+- Yellow -> +Blue:  Marine Blue
+- +Blue 
 
 
 
