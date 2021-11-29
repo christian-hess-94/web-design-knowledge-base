@@ -3,4 +3,7 @@ Can't be found in nature, these form are all created by humans.
 `Triangle, Square and Circle are examples.`
 
 ![[Pasted image 20211129184444.png]]
-This example uses a lot of square and circle shapes. The typography aswell reflects this, with all letter being at perfect 9
+This example uses a lot of square and circle shapes. The typography aswell reflects this, with all letter being at perfect 90 degree angles.
+
+![[Pasted image 20211129184548.png]]
+Another example. This time it incorporates 
