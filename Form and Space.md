@@ -28,6 +28,8 @@ Space dictates the relations between the shapes that are inside of it, bringing 
 ![[Pasted image 20211129185626.png]]
 `This website has a video playing in the background, so it minimizes the elements in the page itself to not deter from it.`
 
+![[Pasted image 20211129185818.png]]
+`This one uses the space around the bold letters and the message of the brand to give focus to it's main purpose. This is a case where the space compliments the `[[Explaining]] `aspects of the design.`
 
 ---
 
