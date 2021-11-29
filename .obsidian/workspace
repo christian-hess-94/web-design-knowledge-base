@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typography.md",
+            "file": "Typographical Variables.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typography.md",
+                "file": "Typographical Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "1964b46ef2cd6e5a",
   "lastOpenFiles": [
+    "Typographical Variables.md",
     "Typography.md",
     "Organic Shapes.md",
     "Geometric Shapes.md",

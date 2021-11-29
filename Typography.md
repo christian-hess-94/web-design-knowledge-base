@@ -31,6 +31,8 @@ Usually used for references to the Medieval Times. Very common in RPG games.
 ##### Display
 These are wildcards, they usually are custom made for a project and not used anywhere else.
 
+When modifying text, there are a couple of parameters to be considered:
+- [[Typographical Variables]]
 
 
 

@@ -1,0 +1,1 @@
+Size: in pixels usually, usually it's best to pick a coupl
