@@ -1,0 +1,1 @@
+This is the relation between the different, sizes, colors and relations of the various texts in the page. It's best to pick some hard set rules right at the start to avoid problems and confusion down the line
