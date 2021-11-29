@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Form and Space.md",
+            "file": "Color.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Form and Space.md",
+                "file": "Color.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "1964b46ef2cd6e5a",
   "lastOpenFiles": [
+    "Color.md",
+    "What is Design.md",
+    "Map of Contents.md",
     "Form and Space.md",
     "Natural Forms.md",
     "Geometric Forms.md",
-    "What is Design.md",
     "Entertaining.md",
     "Templates/Template.md",
     "Persuading.md",
-    "Dramatizing.md",
-    "Dignifying.md",
-    "Explaining.md"
+    "Dramatizing.md"
   ]
 }
