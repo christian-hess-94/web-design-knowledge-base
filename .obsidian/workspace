@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typographc Alignment.md",
+            "file": "Typographic Hierarchy.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typographc Alignment.md",
+                "file": "Typographic Hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "1964b46ef2cd6e5a",
   "lastOpenFiles": [
-    "Typographc Alignment.md",
+    "Typographic Hierarchy.md",
     "Typography.md",
+    "Typographc Alignment.md",
     "Bold.md",
     "Display.md",
     "Blackletter /Blackletter-Goth.md",
     "Script.md",
     "Typographic Pairing.md",
     "Serif.md",
-    "Sans-Serif.md",
-    "Typographic Variables.md"
+    "Sans-Serif.md"
   ]
 }
