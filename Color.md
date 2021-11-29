@@ -1,11 +1,14 @@
 # Color
 created: 29/11/2021 - 19:00
 links:
-tags: #no_content
+tags: #literature
 
 ---
 
-CONTENT
+```
+There are few visual stimuli as potent as colors, they are an extremely useful communication tool.
+-Tymothy 
+```
 
 ---
 
