@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blackletter / Goth.md",
+            "file": "Script.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blackletter / Goth.md",
+                "file": "Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,11 +98,11 @@
   },
   "active": "1964b46ef2cd6e5a",
   "lastOpenFiles": [
-    "Blackletter / Goth.md",
+    "Script.md",
     "Typography.md",
     "Display.md",
-    "Script.md",
     "Bold.md",
+    "Blackletter /Blackletter-Goth.md",
     "Typographic Pairing.md",
     "Serif.md",
     "Sans-Serif.md",

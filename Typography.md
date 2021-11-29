@@ -18,7 +18,7 @@ There are many types:
 
 ![[Script]]
 
-![[Blackletter / Goth]]
+![[Blackletter-Goth]]
 
 ![[Display]]
 
