@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Natural Forms.md",
+            "file": "Geometric Forms.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Forms.md",
+                "file": "Geometric Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,9 +98,9 @@
   },
   "active": "1964b46ef2cd6e5a",
   "lastOpenFiles": [
+    "Geometric Forms.md",
     "Natural Forms.md",
     "Form and Space.md",
-    "Geometric Forms.md",
     "What is Design.md",
     "Entertaining.md",
     "Templates/Template.md",
