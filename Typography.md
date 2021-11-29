@@ -5,7 +5,8 @@ tags: #literature
 
 ---
 
-Typograhy is the process of 
+Typograhy is the process of givin order and form to the message being given by the many texts in the webpage.
+
 
 ---
 
