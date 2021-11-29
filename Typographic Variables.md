@@ -6,3 +6,5 @@ This dictates the space above and below each line of a block of text. This helps
 
 ##### Line length
 It's not a good idea to put a lot of words per line as it can make the user confused and lost when a big text has to be read. Around 10 to 14 words per line should be a good bet.
+
+#snippet

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typographic Scale.md",
+            "file": "Typography.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typographic Scale.md",
+                "file": "Typography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,8 @@
   },
   "active": "1964b46ef2cd6e5a",
   "lastOpenFiles": [
-    "Typographic Scale.md",
     "Typography.md",
+    "Typographic Scale.md",
     "Typographic Variables.md",
     "Organic Shapes.md",
     "Geometric Shapes.md",
