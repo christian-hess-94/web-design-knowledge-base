@@ -28,9 +28,14 @@ Custom made typographies, usually tailored for a certain brand or feel. They hav
 ##### Blackletter / Goth
 Usually used for references to the Medieval Times. Very common in RPG games.
 
+##### Display
+These are wildcards, they usually are custom made for a project and not used anywhere else.
+
+
 
 
 ---
 
 # References
-1. 
+1. https://edgewebfonts.adobe.com
+2. 
