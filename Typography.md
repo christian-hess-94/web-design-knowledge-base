@@ -14,13 +14,13 @@ There are many types:
 
 ![[Sans-Serif Fonts]]
 
-![[Bold fonts]]
+![[Bold Fonts]]
 
-![[Script]]
+![[Script Fonts]]
 
-![[Blackletter-Goth]]
+![[Blackletter-Goth Fonts]]
 
-![[Display]]
+![[Display Fonts]]
 
 When modifying text, there are a couple of parameters to be considered:
 - [[Typographic Variables]]
