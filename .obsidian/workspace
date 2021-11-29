@@ -7,11 +7,8 @@
         "id": "1964b46ef2cd6e5a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Value.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,11 +94,11 @@
   },
   "active": "1964b46ef2cd6e5a",
   "lastOpenFiles": [
-    "Value.md",
     "Contrast.md",
+    "Color.md",
+    "Value.md",
     "Saturation.md",
     "Hue.md",
-    "Color.md",
     "Attachments/Color Schemes.png",
     "Attachments/Cromatic Circle.png",
     "What is Design.md",
