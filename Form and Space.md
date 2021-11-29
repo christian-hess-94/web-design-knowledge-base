@@ -9,8 +9,8 @@ tags: #literature
 Forms dictate the geometric appearance of an element in the page. The most common one are squares and rectangles, especially as they easily fit into the [[Grid]] of the page.
 
 There are two main types:
-![[Geometric Forms]]
-![[Natural Shapes]]
+![[Geometric Shapes]]
+![[Organic Shapes]]
 
 ![[Pasted image 20211129184957.png]]
 `Both themes can be used together. In this example, all the items are composed of Geometric Shapes, to keep everything organized. However small details like the underlining of links or the icons above are composed of imperfect, Natural Shapes`
