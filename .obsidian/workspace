@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "What is Design.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -94,14 +94,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "ae54b4d72e9935c8",
   "lastOpenFiles": [
     "What is Design.md",
-    "Templates/Template.md",
     "Entertaining.md",
+    "Templates/Template.md",
     "Persuading.md",
     "Dramatizing.md",
     "Dignifying.md",

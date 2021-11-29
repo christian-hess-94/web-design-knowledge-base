@@ -32,4 +32,4 @@ Design, in general, dictates the way that the content of a web page or product i
 
 # Referencias
 1. https://www.origamid.com/curso/web-design-completo/2-1-1-o-que-e-design
-2. Elementos do Design - Tymothy Samara
+2. [Elementos do Design - Tymothy Samara](https://kupdf.net/download/elementos-do-design-guia-do-estilo-gr-aacute-fico-cap-iacute-tulo-1-timothy-samara_590ff58cdc0d602017959ea5_pdf)
