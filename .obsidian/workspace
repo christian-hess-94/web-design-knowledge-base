@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Color.md",
+            "file": "Typography.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Color.md",
+                "file": "Typography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "1964b46ef2cd6e5a",
   "lastOpenFiles": [
+    "Typography.md",
     "Color.md",
     "Dramatizing.md",
     "Explaining.md",
@@ -106,7 +107,6 @@
     "Persuading.md",
     "Entertaining.md",
     "Simplifying.md",
-    "Saturation.md",
-    "Value.md"
+    "Saturation.md"
   ]
 }
