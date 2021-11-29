@@ -10,7 +10,7 @@ Forms dictate the geometric appearance of an element in the page. The most commo
 
 There are two main types:
 ![[Geometric Forms]]
-![[Natural Forms]]
+![[Natural Shapes]]
 
 ![[Pasted image 20211129184957.png]]
 `Both themes can be used together. In this example, all the items are composed of Geometric Shapes, to keep everything organized. However small details like the underlining of links or the icons above are composed of imperfect, Natural Shapes`
