@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Typographic Hierarchy.md",
+            "file": "Tracking and Kerning.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typography.md",
+                "file": "Tracking and Kerning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +109,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1964b46ef2cd6e5a",
+  "active": "490d017117a1c657",
   "lastOpenFiles": [
+    "Tracking and Kerning.md",
     "Typography.md",
     "Typographic Hierarchy.md",
     "Display Fonts.md",
@@ -119,7 +120,6 @@
     "Bold Fonts.md",
     "Serif Fonts.md",
     "Typographic Pairing.md",
-    "Sans-Serif Fonts.md",
-    "Typographc Alignment.md"
+    "Sans-Serif Fonts.md"
   ]
 }
