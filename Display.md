@@ -1,0 +1,1 @@
+These are wildcards, they usually are custom made for a project and not used anywhere else.

@@ -1,0 +1,1 @@
+Usually used to give emphasys to a text. They are usually used in Headings.
