@@ -7,7 +7,8 @@ tags: #permanent
 
 There are four basic principles that anyone can keep in mind to automatically put on "designer goggles" when creating a new project or documents:
 
-[[Contrast]]
+[[Contrast]]:
+- Usually 
 
 ---
 
