@@ -19,7 +19,7 @@ Design in general is supposed to **add value and meaning** to something. It can 
 
 ![[Persuading]]
 
-![[Entertaining]]
+![[Entertainment]]
 
 Design, in general, dictates the way that the content of a web page or product is presented to the audience and how it portrays that content. The guidelines that reference different parts of the overall structure and design of the page can be split into four main categories:
 

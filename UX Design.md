@@ -17,6 +17,8 @@ Some things to keep in mind when designing the User eXperience of a page:
 
 ![[Enchantment]]
 
+![[Usability]]
+
 
 ---
 
