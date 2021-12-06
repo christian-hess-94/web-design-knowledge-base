@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Grid Column Size.md",
+            "file": "Grid Column Spacing.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grid Column Size.md",
+                "file": "Grid Column Spacing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "490d017117a1c657",
   "lastOpenFiles": [
-    "Grid Column Size.md",
+    "Grid Column Spacing.md",
     "Grid.md",
+    "Grid Column Size.md",
     "Value.md",
     "Typographic Variables.md",
     "Typographic Pairing.md",
     "Typographic Hierarchy.md",
     "Typographc Alignment.md",
     "Tracking and Kerning.md",
-    "Simplifying.md",
-    "Serif Fonts.md"
+    "Simplifying.md"
   ]
 }
