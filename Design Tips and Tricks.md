@@ -10,7 +10,9 @@ There are four basic principles that anyone can keep in mind to automatically pu
 [[Contrast]]:
 - Usually titles are big and use [[Bold Fonts]] to draw the attention of the viewer directly
 - Logos can be main attractions of the page, usually appearing near titles
-- Buttons and calls to action can make use of accent colors that are used 
+- Buttons and calls to action can make use of accent colors that are used throughout the page.
+- Text blocks can be a bit lighter in color and tone to give more space and attention to titles and subtitles
+- The colorof the text can also be used to categorize 
 
 ---
 
