@@ -1,0 +1,1 @@
+The rule of thirds is a photography and film-making concept that helps in the placeme

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Grid.md",
+            "file": "Rule of Thirds.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grid.md",
+                "file": "Rule of Thirds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "490d017117a1c657",
   "lastOpenFiles": [
+    "Rule of Thirds.md",
     "Grid.md",
     "Responsive Grid.md",
     "Mobile Grid Columns.md",
@@ -106,7 +107,6 @@
     "Typography.md",
     "Grid Column Fit.md",
     "Grid Column Spacing.md",
-    "Grid Column Size.md",
-    "Value.md"
+    "Grid Column Size.md"
   ]
 }
