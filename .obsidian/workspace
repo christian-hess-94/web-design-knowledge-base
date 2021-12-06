@@ -7,8 +7,11 @@
         "id": "490d017117a1c657",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Display Fonts.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#snippet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Display Fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +99,15 @@
   },
   "active": "490d017117a1c657",
   "lastOpenFiles": [
+    "Display Fonts.md",
+    "Dignifying.md",
+    "Bold Fonts.md",
+    "Blackletter /Blackletter-Goth Fonts.md",
+    "Adding Value and Meaning.md",
     "Tracking and Kerning.md",
     "Typography.md",
     "Typographic Hierarchy.md",
-    "Display Fonts.md",
-    "Blackletter /Blackletter-Goth Fonts.md",
     "Script Fonts.md",
-    "Bold Fonts.md",
-    "Serif Fonts.md",
-    "Typographic Pairing.md",
-    "Sans-Serif Fonts.md"
+    "Serif Fonts.md"
   ]
 }
