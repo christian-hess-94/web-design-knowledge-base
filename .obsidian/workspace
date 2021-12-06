@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Tips and Tricks.md",
-            "mode": "source"
+            "file": "Color.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#snippet",
+                "query": "Contrast",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Tips and Tricks.md",
+                "file": "Color.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +99,15 @@
   },
   "active": "490d017117a1c657",
   "lastOpenFiles": [
+    "Color.md",
+    "Color Relativity.md",
+    "Color types.md",
     "Design Tips and Tricks.md",
     "Attachments/Design Para Quem Não É Designer.pdf",
     "Attachments/Dramatizing.png",
     "Grid.md",
     "Types of Grids.md",
     "Rule of Thirds.md",
-    "Responsive Grid.md",
-    "Mobile Grid Columns.md",
-    "Adaptable Grid Columns.md",
-    "Typographic Scale.md"
+    "Responsive Grid.md"
   ]
 }
