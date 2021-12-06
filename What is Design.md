@@ -30,6 +30,9 @@ Design, in general, dictates the way that the content of a web page or product i
 
 There are types of Design:
 - [[UX Design]]
+- [[UI Design]]
+
+- [[Planning a website]]
 
 ---
 

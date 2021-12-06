@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "a2ebe3456dca03f8",
+    "id": "6d33f859669a647a",
     "type": "split",
     "children": [
       {
-        "id": "490d017117a1c657",
+        "id": "fc46c9c92fccca75",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Planning a website.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Planning a website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,17 +96,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "490d017117a1c657",
+  "active": "fc46c9c92fccca75",
   "lastOpenFiles": [
+    "Planning a website.md",
+    "What is Design.md",
     "Usability.md",
     "Useful.md",
-    "What is Design.md",
     "README.md",
     "Map of Contents.md",
     "UX Design.md",
     "Enchantment.md",
     "Entertainment.md",
-    "Sense.md",
-    "Ease of use.md"
+    "Sense.md"
   ]
 }
