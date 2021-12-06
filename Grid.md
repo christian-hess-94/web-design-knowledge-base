@@ -9,9 +9,9 @@ A set of relationships that are based on aligning and distributing the elements 
 
 ![[Pasted image 20211206165414.png]]
 
-THe grid helps in adjusting the sizing and spacing of the various elements in a page in relation to each other. It's used for organizing those elements.
+The grid helps in adjusting the sizing and spacing of the various elements in a page in relation to each other. It's used for organizing those elements.
 
-In the web usually one can use the following guidelines to determine the grid of the page:
+#### Guidelines to determine the grid of the page:
 
 ![[Grid Column Size]]
 
@@ -19,13 +19,9 @@ In the web usually one can use the following guidelines to determine the grid of
 
 ![[Grid Column Fit]]
 
-The most common type of grid is the [[Responsive Grid ]]
+![[Types of Grids]]
 
-There are a lot of grid systems pre-built for web applications:
-- [960 Grid System](https://960.gs/)
-- [Get Skeleton](http://getskeleton.com/)
 
-Grids can also be seen in the world of Photography, via the [[Rule of Thirds]]
 
 ---
 
