@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Responsive Grid.md",
+            "file": "Adaptable Grid Columns.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Responsive Grid.md",
+                "file": "Adaptable Grid Columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "490d017117a1c657",
   "lastOpenFiles": [
+    "Adaptable Grid Columns.md",
     "Responsive Grid.md",
     "Grid.md",
     "Typographic Scale.md",
@@ -106,7 +107,6 @@
     "Grid Column Spacing.md",
     "Grid Column Size.md",
     "Value.md",
-    "Typographic Variables.md",
-    "Typographic Pairing.md"
+    "Typographic Variables.md"
   ]
 }
