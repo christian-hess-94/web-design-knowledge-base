@@ -28,6 +28,9 @@ Design, in general, dictates the way that the content of a web page or product i
 - [[Typography]]
 - [[Grid]]
 
+There are types of Design:
+- [[UX Design]]
+
 ---
 
 # Referencias

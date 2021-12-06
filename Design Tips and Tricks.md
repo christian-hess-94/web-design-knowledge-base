@@ -25,7 +25,7 @@ There are four basic principles that anyone can keep in mind to automatically pu
 
 ### [[Proximity]]:
 - Similar elements should be grouped together, so the viewer can quickly broser between similar topics
-- Again, this can be used to group similar elements o
+- Again, this can be used to group similar elements or categories
 
 ---
 

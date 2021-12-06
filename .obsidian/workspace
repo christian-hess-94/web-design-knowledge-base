@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Tips and Tricks.md",
+            "file": "What is Design.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Tips and Tricks.md",
+                "file": "What is Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,9 +98,9 @@
   },
   "active": "490d017117a1c657",
   "lastOpenFiles": [
+    "What is Design.md",
     "Design Tips and Tricks.md",
     "Contrast.md",
-    "What is Design.md",
     "Color Scheme.md",
     "Typographic Scale.md",
     "Color.md",
