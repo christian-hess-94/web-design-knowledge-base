@@ -19,7 +19,6 @@ There are few visual stimuli as potent as colors, they are an extremely useful c
 
 ![[Color Scheme]]
 
-
 ---
 
 # References
