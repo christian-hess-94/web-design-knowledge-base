@@ -5,9 +5,9 @@ tags: #permanent
 
 ---
 
-Th
+There are four basic principles that anyone can keep in mind to at
 
 ---
 
 # References
-1. 
+1. [[Design Para Quem Não É Designer.pdf]]
