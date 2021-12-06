@@ -1,1 +1,1 @@
-Ensuring the user feels the cont
+Ensuring the user feels the content and experience of the using the page wherever in the page it is, gives a sense of consistency 
