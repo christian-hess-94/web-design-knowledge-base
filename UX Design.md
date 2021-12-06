@@ -17,6 +17,8 @@ Some things to keep in mind when designing the User eXperience of a page:
 
 ![[Enchantment]]
 
+The bigger goal of UX Design is to improve the [[Usability]] of the webpage which in turn greatly increases the users engagement with the content and with the brand.
+
 
 
 ---
