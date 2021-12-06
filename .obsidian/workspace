@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planning a website.md",
+            "file": "Wireframe.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning a website.md",
+                "file": "Wireframe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "fc46c9c92fccca75",
   "lastOpenFiles": [
+    "Wireframe.md",
     "Planning a website.md",
     "What is Design.md",
     "Usability.md",
@@ -106,7 +107,6 @@
     "Map of Contents.md",
     "UX Design.md",
     "Enchantment.md",
-    "Entertainment.md",
-    "Sense.md"
+    "Entertainment.md"
   ]
 }

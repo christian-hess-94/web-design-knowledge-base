@@ -18,7 +18,7 @@ Usually there are a few steps to follow:
 
 All of these step combined are what is called the "Visual Design" of the project.
 
-It can be helpful to create a "skeleton" of the website during the planning process to get a general idea of where all the elements are going to be placed and their relation to eachother.
+It can be helpful to create a [[Wireframe]] of the website during the planning process to get a general idea of where all the elements are going to be placed and their relation to eachother.
 
 
 
