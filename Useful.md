@@ -1,1 +1,1 @@
-Does the webpage or project do somethign useful and add value to 
+The webpage or project should be useful and add value to any part of the user's daily life
