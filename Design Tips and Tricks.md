@@ -22,7 +22,10 @@ There are four basic principles that anyone can keep in mind to automatically pu
 ### [[Alignment]]
 - The elements of the page should have a visual conection to other elements. This give the sense of an organized space and structure
 - This can be used to group similar elements or differentiate between categories of content
-- 
+
+### [[Proximity]]:
+- Similar elements should be grouped together, so the viewer can quickly broser between similar topics
+- Again, this can be used to group similar elements o
 
 ---
 
