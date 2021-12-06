@@ -21,7 +21,8 @@ In the web usually one can use the following guidelines to determine the grid of
 
 The most common type of grid is the [[Responsive Grid ]]
 
-There are a lot of grid systems pre-bui
+There are a lot of grid systems pre-built for web applications:
+- [960 Grid System](https://960.gs/)
 
 ---
 
