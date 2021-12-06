@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sense.md",
+            "file": "Enchantment.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sense.md",
+                "file": "Enchantment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "490d017117a1c657",
   "lastOpenFiles": [
-    "Sense.md",
+    "Enchantment.md",
     "UX Design.md",
+    "Sense.md",
     "Ease of use.md",
     "Consistency.md",
     "What is Design.md",
     "Design Tips and Tricks.md",
     "Contrast.md",
     "Color Scheme.md",
-    "Typographic Scale.md",
-    "Color.md"
+    "Typographic Scale.md"
   ]
 }
