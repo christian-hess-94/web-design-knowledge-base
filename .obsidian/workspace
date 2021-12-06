@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ease of use.md",
+            "file": "UX Design.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ease of use.md",
+                "file": "UX Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,8 @@
   },
   "active": "490d017117a1c657",
   "lastOpenFiles": [
-    "Ease of use.md",
     "UX Design.md",
+    "Ease of use.md",
     "Consistency.md",
     "What is Design.md",
     "Design Tips and Tricks.md",
