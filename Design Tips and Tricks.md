@@ -17,7 +17,10 @@ There are four basic principles that anyone can keep in mind to automatically pu
 
 ### [[Repetition]]:
 - The repetition of color throughout the page can help in categorizing and giving hierarchy to the elements aswell as draw attention to specific actions and elements
-- Repeating the siz
+- Repeating the size and style decoration throughout the page gives a sense of belonging and that the entire page is concise with how it presentes information
+
+### [[ Alignment]]
+- The elements of the page should have 
 
 ---
 
