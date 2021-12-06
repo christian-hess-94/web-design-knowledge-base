@@ -5,9 +5,16 @@ tags: #literature
 
 ---
 
-CONTENT
+Usability means:
+![[Useful]]
+
+![[Ease of use]]
+
+![[Memorable]]
+
+![[Efective]]
 
 ---
 
 # References
-1. 
+1. https://www.origamid.com/curso/web-design-completo/2-2-2-usabilidade
