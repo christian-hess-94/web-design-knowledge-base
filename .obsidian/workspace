@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contrast.md",
+            "file": "Typographic Scale.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contrast.md",
+                "file": "Typographic Scale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "490d017117a1c657",
   "lastOpenFiles": [
+    "Typographic Scale.md",
     "Contrast.md",
     "Design Tips and Tricks.md",
     "Color.md",
@@ -107,7 +108,6 @@
     "Color types.md",
     "Attachments/Design Para Quem Não É Designer.pdf",
     "Attachments/Dramatizing.png",
-    "Grid.md",
-    "Types of Grids.md"
+    "Grid.md"
   ]
 }

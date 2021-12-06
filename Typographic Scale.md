@@ -1,7 +1,7 @@
 # Typographic Scale
 created: 29/11/2021 - 19:38
 links:
-tags: #permanent
+tags: #atomic
 
 ---
 
