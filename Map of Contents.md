@@ -6,6 +6,9 @@ tags: #moc
 ---
 
 1. [[What is Design]]
+2. [[UX Design]]
+3. [[Color]]
+4. [[Contrast]]
 
 ---
 
