@@ -5,3 +5,5 @@ There are a lot of grid systems pre-built for web applications:
 - [Get Skeleton](http://getskeleton.com/)
 
 Grids can also be seen in the world of Photography, via the [[Rule of Thirds]]
+
+#atomic

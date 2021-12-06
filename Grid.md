@@ -26,4 +26,4 @@ The grid helps in adjusting the sizing and spacing of the various elements in a 
 ---
 
 # References
-1. 
+1.  https://www.origamid.com/curso/web-design-completo/2-1-5-grid/
