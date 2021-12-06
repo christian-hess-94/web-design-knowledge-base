@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What is Design.md",
+            "file": "UX Design.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Design.md",
+                "file": "UX Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "490d017117a1c657",
   "lastOpenFiles": [
+    "UX Design.md",
     "What is Design.md",
     "Design Tips and Tricks.md",
     "Contrast.md",
@@ -106,7 +107,6 @@
     "Color.md",
     "Color Relativity.md",
     "Color types.md",
-    "Attachments/Design Para Quem Não É Designer.pdf",
-    "Attachments/Dramatizing.png"
+    "Attachments/Design Para Quem Não É Designer.pdf"
   ]
 }
