@@ -1,0 +1,1 @@
+The fit of the objects itself can be pre-determined to aid in aligning the various elementos into the grid itself. This takes into account both the grid size and grid 

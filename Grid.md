@@ -17,7 +17,7 @@ In the web usually one can use the following guidelines to determine the grid of
 
 ![[Grid Column Spacing]]
 
-![[Grid Column Wrap]]
+![[Grid Column Fit]]
 
 ---
 
