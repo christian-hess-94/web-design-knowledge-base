@@ -12,7 +12,8 @@ There are four basic principles that anyone can keep in mind to automatically pu
 - Logos can be main attractions of the page, usually appearing near titles
 - Buttons and calls to action can make use of accent colors that are used throughout the page.
 - Text blocks can be a bit lighter in color and tone to give more space and attention to titles and subtitles
-- The colorof the text can also be used to categorize 
+- The color of the text can also be used to categorize what type of content is being presented. This has top be used in the entire page and be consistent
+- 
 
 ---
 
