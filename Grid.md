@@ -9,7 +9,9 @@ A set of relationships that are based on aligning and distributing the elements 
 
 ![[Pasted image 20211206165414.png]]
 
-THe grid helps in adjusting the sizing and spacing of 
+THe grid helps in adjusting the sizing and spacing of the various elements in a page in relation to each other. It's used for organizing those elements.
+
+In the web usually one
 
 ---
 
