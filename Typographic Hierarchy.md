@@ -4,4 +4,4 @@ Used to give emphasis to certain parts of the text. You will never need to use m
 - Underlined: Usually used to highlight links to other pages or resources
 - Uppercase: Never to be used in actual body of text, it can be use to emphasize titles and subtitles
 
-#snippet
+#atomic

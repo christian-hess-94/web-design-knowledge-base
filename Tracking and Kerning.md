@@ -3,4 +3,4 @@ Kerning is thge distance between two letters of the word.
 
 ![[Pasted image 20211129194955.png]]
 
-#snippet
+#atomic

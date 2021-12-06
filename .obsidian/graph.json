@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "tag:#snippet",
+      "query": "tag:#atomic",
       "color": {
         "a": 1,
         "rgb": 5419488
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224431,
+  "scale": 0.7132754626224436,
   "close": false
 }

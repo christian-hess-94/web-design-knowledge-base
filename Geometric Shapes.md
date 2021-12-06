@@ -8,4 +8,4 @@ Can't be found in nature, these forms are all created by humans.
 ![[Pasted image 20211129184548.png]]
 `Another example. This time it incorporates diagonal lines to give a sense of separation and to break the convention of squared designs. It even works with the Y at the end of the word "Academy" which has an angle to it`
 
-#snippet
+#atomic

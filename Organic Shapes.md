@@ -5,4 +5,4 @@ These forms are usually composed of curves and are made of all sorts of differen
 ![[Pasted image 20211129184705.png]]
 `This website has almost everything composed of Organic Shapes, from the picture of the flaming to the font used for the Logo. However even the three buttons to the left compliment this design choice by being circles, which is the Geometric Shape that is closest to a Organic Shape`
 
-#snippet
+#atomic
