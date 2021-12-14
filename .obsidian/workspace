@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wireframe.md",
+            "file": "Templates/Template.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wireframe.md",
+                "file": "Templates/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,8 @@
   },
   "active": "fc46c9c92fccca75",
   "lastOpenFiles": [
+    "Templates/Template.md",
+    "Blackletter-Goth Fonts.md",
     "Wireframe.md",
     "Planning a website.md",
     "What is Design.md",
@@ -105,8 +107,6 @@
     "Useful.md",
     "README.md",
     "Map of Contents.md",
-    "UX Design.md",
-    "Enchantment.md",
-    "Entertainment.md"
+    "UX Design.md"
   ]
 }
