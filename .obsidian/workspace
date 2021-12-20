@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Template.md",
+            "file": "Design Tips and Tricks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Template.md",
+                "file": "Design Tips and Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,8 @@
   },
   "active": "fc46c9c92fccca75",
   "lastOpenFiles": [
+    "Design Tips and Tricks.md",
+    "Contrast.md",
     "Templates/Template.md",
     "Blackletter-Goth Fonts.md",
     "Wireframe.md",
@@ -105,8 +107,6 @@
     "What is Design.md",
     "Usability.md",
     "Useful.md",
-    "README.md",
-    "Map of Contents.md",
-    "UX Design.md"
+    "README.md"
   ]
 }
